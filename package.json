@@ -1,0 +1,15 @@
+{
+  "name": "tpuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.1.4",
+    "puppeteer": "^1.0.0"
+  }
+}
